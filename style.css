@@ -195,7 +195,8 @@
   
   :is(.h1, .h2, .h3, .card-price) .span {
     display: inline-block;
-    color:;
+   color:#278b6a;
+   
   }
   
   .btn{
