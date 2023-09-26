@@ -195,7 +195,7 @@
   
   :is(.h1, .h2, .h3, .card-price) .span {
     display: inline-block;
-    color:#4fa496;
+    color:;
   }
   
   .btn{
@@ -617,7 +617,7 @@
   .about .section-title { color: white; }
   
   .about .section-text {
-    color: var(--dim-gray);
+    color: hsl(0deg 22.33% 89.86%);
     margin-block: 50px 60px;
   }
   
